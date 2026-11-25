@@ -1,181 +1,80 @@
-<!-- Replace YOUR_GITHUB_USERNAME everywhere with your actual GitHub username -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Raviraj%20Sonar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%20Engineer&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Raviraj%20Sonar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%20Engineering&descAlignY=60&descSize=18" width="100%" alt="Raviraj Sonar" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+systems+that+scale+%F0%9F%9A%80;Zero-downtime+migrations+%7C+RAG+%7C+Agentic+AI;Recognised+by+the+Chief+Minister+of+Maharashtra+%F0%9F%8F%86;300%2B+DSA+problems+solved+%7C+Hackathon+Winner" alt="Typing SVG" />
-</a>
+**Final-year B.Tech student at MIT Academy of Engineering, Pune, building scalable backends, real-time systems and AI-powered platforms.**
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Location](https://img.shields.io/badge/Pune-India-orange?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Open To Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-brightgreen?style=for-the-badge)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-sonarraviraj60@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonarraviraj60@gmail.com)
-[![Phone](https://img.shields.io/badge/Call-+91--8010177103-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918010177103)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/RavirajSonar40/RavirajSonar40/raw/main/Raviraj_Sonar_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raviraj-sonar-4b5574370/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonarraviraj60@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-```js
-const raviraj = {
-  role: "Full-Stack & Backend Engineer | AI Systems Builder",
-  education: "B.Tech E&TC @ MIT Academy of Engineering, Pune (2023 – 2027)",
-  cgpa: "8.45 / 10",
-  currentlyBuilding: ["Report Buddy", "Agentic AI & RAG systems"],
-  strongAt: ["Distributed Systems", "Database Design", "Backend Architecture", "LLM / RAG Pipelines"],
-  funFact: "My traffic-complaint platform got recognised by the Chief Minister of Maharashtra 🏆",
-  lookingFor: "Internships & roles where I can build real, scalable systems"
-};
-```
+I build backend-heavy products end to end: schema design, APIs, real-time delivery, caching, queues, and, more recently, LLM pipelines with retrieval and agentic workflows. My work ranges from a system for the **PCMC Traffic Police that was recognised by the Chief Minister of Maharashtra**, to a **zero-downtime PostgreSQL migration engine benchmarked at 10M+ rows**.
 
-- 🔭 I design **relational databases**, **real-time systems**, and **AI-powered platforms** that actually ship.
-- 🏆 **Winner – Coday Hackathon (NICE Technologies)** using greedy + dynamic programming.
-- 🧠 **300+ DSA problems** solved on LeetCode (arrays, trees, graphs, DP).
-- ⚡ Comfortable going from **schema design → backend → real-time dashboards → LLM pipelines**.
+| | |
+|---|---|
+| **Education** | B.Tech, Electronics & Telecommunication Engineering, MIT Academy of Engineering, Pune (2023 – 2027), CGPA 8.45 / 10 |
+| **Focus areas** | Backend architecture, database design, distributed systems, RAG and agentic AI |
+| **Currently** | Building **Report Buddy** and agentic AI / RAG systems |
+| **Recognition** | Winner, Coday Hackathon (NICE Technologies) · 300+ DSA problems on LeetCode |
+| **Open to** | Internships and entry-level roles in backend, full-stack and AI engineering |
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py&perf" />
-</p>
+**Languages**
 
-### 🌐 Frameworks & Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,angular,fastapi&perf" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,py&perf" alt="Languages" />
 
-### 🗄️ Databases & ORMs
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma&perf" />
-</p>
+**Frontend and frameworks**
 
-`Pinecone` · `pgvector` · `Mongoose`
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,angular,fastapi&perf" alt="Frameworks" />
 
-### ⚙️ Distributed Systems & Messaging
-<p>
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,graphql&perf" />
-</p>
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma&perf" alt="Databases" />
+
+`pgvector` · `Pinecone` · `Mongoose`
+
+**Messaging and real-time**
+
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,graphql&perf" alt="Messaging" />
 
 `BullMQ` · `Socket.IO` · `gRPC` · `REST` · `SSE` · `WebSockets`
 
-### ☁️ DevOps & Infra
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,cloudflare,git,github&perf" />
-</p>
+**DevOps and cloud**
 
-### 🤖 AI / ML
-<p>
-  <img src="https://img.shields.io/badge/LangGraph-Agentic%20AI-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20Search-pgvector%20%7C%20Pinecone-0077B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ragas-LLM%20Evaluation-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--Provider-LLM%20Integration-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XGBoost-ML-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas%20%7C%20NumPy-Data-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,cloudflare,git,github&perf" alt="DevOps" />
 
-### 🧰 Tools & Core CS
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,figma,cursor&perf" />
-  <img src="https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/RBAC-Security-critical?style=for-the-badge" />
-</p>
+**AI / ML**
 
-**CS Fundamentals:** `DSA` · `OOP` · `Operating Systems` · `Computer Networks` · `DBMS` · `System Design` · `Distributed Systems`
-
-**AI Coding Tools:** `Cursor` · `Antigravity` · `OpenCode` · `Hermes`
-
----
-
-## 🚀 Featured Projects
-
-### 🔍 Crime Track
-> **Crime records management & analytics platform** · *Jul 2025 – Sep 2025*
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-Heatmaps-orange?style=flat-square)
-
-- 🗃️ Designed **normalized PostgreSQL schemas** managing **5,000+ crime records** with high data integrity.
-- ⚡ Optimized complex SQL queries (joins, aggregations), **cutting report generation time by 40%**.
-- 📊 Built **real-time analytics dashboards and heatmaps**, enabling faster decision-making across **3+ police zones**.
-
-🔗 [**View Repository →**](https://github.com/YOUR_GITHUB_USERNAME/crime-track)
-
----
-
-### 📝 Report Buddy
-> **Multi-role FIR management system with workflow automation** · *Oct 2025 – Present*
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![RBAC](https://img.shields.io/badge/Role--Based%20Auth-critical?style=flat-square)
-
-- 🧱 Engineered relational schemas supporting **multi-role access for 100+ users** with strict referential integrity.
-- 🔐 Implemented secure **role-based authentication & authorization**, improving system security by **60%**.
-- 🤖 Developed **end-to-end FIR workflow automation**, reducing manual processing time by **45%**.
-
-🔗 [**View Repository →**](https://github.com/YOUR_GITHUB_USERNAME/report-buddy)
-
----
-
-## 🧪 More Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 AI Knowledge & Action Platform
-**RAG & Agentic AI Platform** · *2026*
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-0077B6?style=flat-square)
+![Ragas](https://img.shields.io/badge/Ragas%20Evaluation-FF6F00?style=flat-square)
+![Multi-provider LLMs](https://img.shields.io/badge/Multi--provider%20LLMs-111111?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-2E8B57?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas%20%7C%20NumPy-150458?style=flat-square&logo=pandas&logoColor=white)
 
-- Semantic search, **RAG-based Q&A**, document recommendations & **multi-provider LLM** support.
-- **LangGraph agentic workflows**: task decomposition, tool execution, evidence gathering, iterative verification & **human-in-the-loop approval**.
-- **LLM evaluation & observability** with **Ragas** — tracks faithfulness, context precision, recall, latency & token usage via an **Angular dashboard**.
+**Core CS:** DSA · OOP · Operating Systems · Computer Networks · DBMS · System Design · Distributed Systems
+**Security and tools:** JWT · RBAC · Postman · Figma · Cursor · Antigravity · OpenCode · Hermes
 
-🔗 [Repository →](https://github.com/YOUR_GITHUB_USERNAME/ai-knowledge-action-platform)
+---
 
-</td>
-<td width="50%" valign="top">
+## Featured Projects
 
-### 🔄 SafeMigrate
-**Zero-Downtime PostgreSQL Migration Engine** · *2025*
+### 🚦 Traffic Buddy: WhatsApp-first traffic complaint platform
+*Built for PCMC Traffic Police · Mar 2025 – May 2025*
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+> 🏆 **Recognised by the Chief Minister of Maharashtra** for improving the complaint handling workflow of the PCMC Traffic Police through automated routing, real-time status tracking and streamlined resolution.
 
-- Built on **logical replication / WAL (pgoutput)** with async shadow-table backfilling for live workloads.
-- **Kafka-ordered change replay** + **Redis checkpoints** → idempotent crash recovery & atomic cutover, **zero data loss**.
-- Benchmarked at **10M+ rows**: **11,655 rows/sec**, 14.30 min backfill, **zero failures**.
-
-🔗 [Repository →](https://github.com/YOUR_GITHUB_USERNAME/safemigrate)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🚦 Traffic Buddy — *Built for PCMC Traffic Police* · *Mar 2025 – May 2025*
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -183,10 +82,95 @@ const raviraj = {
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF4438?style=flat-square)
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-- **WhatsApp-first** traffic complaint platform with Twilio, **JWT-based RBAC** & REST APIs for citizens, officers & admins.
-- Automated **geolocation-based routing**; optimized evidence storage (**Sharp + Cloudflare R2**); faster dashboards via **MongoDB indexing + Redis cache-aside**.
-- **Redis distributed locking** for complaint ownership, **Socket.IO** real-time updates, **BullMQ** async notifications.
-- 🏆 **Recognised by the Chief Minister of Maharashtra** for improving the PCMC Traffic Police complaint workflow.
+- Citizens file complaints over **WhatsApp (Twilio)**; officers and administrators work from a dashboard backed by **REST APIs** and **JWT-based RBAC**.
+- **Geolocation-based routing** assigns each complaint automatically.
+- Evidence is compressed with **Sharp** and stored in **Cloudflare R2**; dashboards are faster thanks to **MongoDB indexing** and **Redis cache-aside** caching.
+- **Redis distributed locking** guarantees single ownership of a complaint, **Socket.IO** pushes real-time updates, and **BullMQ** sends WhatsApp notifications asynchronously.
+
+```mermaid
+flowchart LR
+    A[Citizen on WhatsApp] --> B[Twilio]
+    B --> C[Node.js API<br/>JWT + RBAC]
+    C --> D[Geolocation routing]
+    C <--> E[(MongoDB)]
+    C <--> F[(Redis<br/>cache + locks)]
+    C --> G[Sharp] --> H[(Cloudflare R2)]
+    C --> I[BullMQ] --> B
+    C --> J[Socket.IO] --> K[Officer / Admin dashboard]
+```
+
+[**Backend →**](https://github.com/RavirajSonar40/TrafficBuddy-Backend) · [**Dashboard →**](https://github.com/RavirajSonar40/TrafficDashbord)
+
+---
+
+### 🔍 Crime Track: crime records and analytics platform
+*Jul 2025 – Sep 2025*
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-Heatmaps-orange?style=flat-square)
+
+- Designed **normalized PostgreSQL schemas** managing **5,000+ crime records** with high data integrity.
+- Optimized complex SQL queries (joins, aggregations), **reducing report generation time by 40%**.
+- Built **real-time analytics dashboards and heatmaps** for faster decision-making across **3+ police zones**.
+
+[**Repository →**](https://github.com/RavirajSonar40/crime-track1)
+
+---
+
+### 📝 Report Buddy: FIR management with workflow automation
+*Oct 2025 – Present*
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![RBAC](https://img.shields.io/badge/Role--Based%20Auth-C0392B?style=flat-square)
+
+- Engineered relational schemas supporting **multi-role access for 100+ users** with strict referential integrity.
+- Implemented secure **role-based authentication and authorization**, improving system security by **60%**.
+- Developed **end-to-end FIR workflow automation**, **reducing manual processing time by 45%**.
+
+<!-- Add your Report Buddy repo link here: [**Repository →**](https://github.com/RavirajSonar40/<repo-name>) -->
+
+---
+
+## More Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI Knowledge & Action Platform
+**RAG and agentic AI** · *2026*
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+- Semantic search, **RAG-based Q&A**, document recommendations and **multi-provider LLM** support.
+- **LangGraph** workflows with task decomposition, tool execution, evidence gathering, iterative verification and **human-in-the-loop approval**.
+- **Ragas-based evaluation and observability**: faithfulness, context precision, recall, latency and token usage in an **Angular dashboard**.
+
+<!-- Add repo link: [Repository →](https://github.com/RavirajSonar40/<repo-name>) -->
+
+</td>
+<td width="50%" valign="top">
+
+### 🔄 SafeMigrate
+**Zero-downtime PostgreSQL migration engine** · *2025*
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+- **Logical replication / WAL (pgoutput)** with asynchronous shadow-table backfilling for live workloads.
+- **Kafka-ordered change replay** and **Redis checkpoints** for idempotent crash recovery and atomic cutover with zero data loss.
+- Benchmarked at **10M+ rows**: **11,655 rows/sec**, 14.30 min backfill, **zero failures**, validated with fault injection and checksum verification.
+
+<!-- Add repo link: [Repository →](https://github.com/RavirajSonar40/<repo-name>) -->
 
 </td>
 </tr>
@@ -194,58 +178,48 @@ const raviraj = {
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Company | Period |
 |------|---------|--------|
-| 🤖 **Machine Learning Engineer Intern** | Univ.Ai (Remote) | Jun 2025 – Jul 2025 |
-| 🌐 **WordPress Developer Intern** | Canspirits.Ai (Remote) | Jun 2024 – Jul 2024 |
+| **Machine Learning Engineer Intern** | Univ.Ai (Remote) | Jun 2025 – Jul 2025 |
+| **WordPress Developer Intern** | Canspirits.Ai (Remote) | Jun 2024 – Jul 2024 |
 
-- **Univ.Ai:** Built and evaluated **Decision Tree & XGBoost** models for loan default prediction; handled preprocessing, feature engineering & EDA with Pandas/NumPy.
-- **Canspirits.Ai:** Customized and maintained client WordPress sites; deployed on Bluehost with routine backups and maintenance.
+- **Univ.Ai:** Built and evaluated Decision Tree and XGBoost models for loan default prediction, with preprocessing, feature engineering and EDA in Pandas and NumPy.
+- **Canspirits.Ai:** Customized and maintained client WordPress sites, deployed on Bluehost with routine backups and maintenance.
 
 ---
 
-## 🏅 Achievements
+## Achievements
 
-- 🥇 **Winner – Coday Hackathon (NICE Technologies)** — greedy + dynamic programming solution
+- 🥇 **Winner, Coday Hackathon (NICE Technologies):** greedy and dynamic programming solution
 - 🏛️ **Recognised by the Chief Minister of Maharashtra** for Traffic Buddy
-- 🧩 **300+ DSA problems** on LeetCode — arrays, trees, graphs, DP
-- ⚡ **10M+ row migration benchmark** with zero failures (SafeMigrate)
+- 🧩 **300+ DSA problems** solved on LeetCode (arrays, trees, graphs, DP)
+- ⚡ **10M+ row zero-failure migration benchmark** with SafeMigrate
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RavirajSonar40&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavirajSonar40&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-I'm open to **internships, collaborations, and interesting engineering problems**.
-Got a system that needs to scale, or an AI idea to build? Let's talk.
+### Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonarraviraj60@gmail.com)
+Open to internships, collaborations and interesting engineering problems.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raviraj-sonar-4b5574370/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonarraviraj60@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/RavirajSonar40/RavirajSonar40/raw/main/Raviraj_Sonar_Resume.pdf)
 
-*⭐ If you like what you see, drop a star on a repo!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="" />
 
 </div>
